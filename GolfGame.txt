@@ -1,1 +1,2 @@
 11/16/2023: Similar to Hurah Island, these Unity games are just too large.
+11/17/2023: The goal with this text file is to keep track of my updates without actually taking up space on Github. Using lfs is not enough and I am not able to pay for the extra storage. So this will do for now. I plan on updating the readme as well, and if you'd like to see or work on the project, feel free to contact me, I would very much appreciate it.
